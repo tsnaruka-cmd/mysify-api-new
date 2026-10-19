@@ -42,8 +42,6 @@ google-generativeai==0.8.6
 google-resumable-media==2.10.0
 googleapis-common-protos==1.75.0
 gotrue==2.12.4
-grpcio==1.81.0
-grpcio-status==1.71.2
 h11==0.16.0
 h2==4.3.0
 hf-xet==1.5.0
