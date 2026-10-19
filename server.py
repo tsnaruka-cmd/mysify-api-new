@@ -35,7 +35,7 @@ from fastapi import (
     UploadFile,
 )
 from fastapi.responses import StreamingResponse
-from motor.motor_asyncio import AsyncIOMotorClient, AsyncIOMotorGridFSBucket
+from motor.motor_asyncio import AsyncIOMotorClient
 from pydantic import BaseModel, EmailStr, Field
 from starlette.middleware.cors import CORSMiddleware
 
